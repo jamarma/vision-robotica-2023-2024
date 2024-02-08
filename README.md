@@ -4,4 +4,4 @@ Repositorio para alojar las memorias de las prácticas realizadas en la asignatu
 
 Todos los ejercicios realizados se pueden encontrar en [Unibotics](https://unibotics.org/), plataforma que usaremos a lo largo del curso.
 
-Las memorias están desarrolladas en la [Wiki](https://github.com/jmrtzma/Robotica-Servicio-2021-2022/wiki).
+Las memorias están desarrolladas en la [Wiki](https://github.com/jamarma/vision-robotica-2023-2024/wiki).
